@@ -28,8 +28,8 @@ I ocassionally blog about cloud and Devops at [Hashnode](https://nvrc.hashnode.d
 ## Get in touch :coffee:
 
 ### I'm on:
-- [Twitter](https://twitter.com/v).
-- [LinkedIn](https://www.linkedin.com/in/narra-venkata-raghu-charan)
+- [Twitter](https://twitter.com/NVRaghuCharan16?t=crDokRNrUaznVfBeh9eZtQ&s=09).
+- [LinkedIn](https://www.linkedin.com/in/narra-venkata-raghu-charan).
 - And of course GitHub you're already on (Recursion).
 
 
