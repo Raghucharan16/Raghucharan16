@@ -10,11 +10,11 @@
 ## About me
 
 I'm Venkata Raghu Charan Narra. A CSE UnderGraduate, Volunteer of [GDG Vizag](https://gdg.community.dev/gdg-vizag/) (Vizag) and GCCP facilitator at [GVP](https://www.gvpce.ac.in/). Community is :heart:.
-#### Learn in public
+#### I believe Learning in public is the most effective standard of knowing or learning a thing.
 
-I ocassionally blog about Tech stack I know ( which i feel is cool ) at [Hashnode](https://nvrc.hashnode.dev/).  
-- 🌱 I’m currently learning NodeJS.
-- 👯 I’m looking to collaborate for Machine Learning projects.
+I ocassionally blog about Tech stack at [Hashnode](https://nvrc.hashnode.dev/).  
+- 🌱 I’m currently learning Android.
+- 👯 I’m looking to collaborate for Machine Learning projects/ Topics {any thing like deeplearning, GAN, VAN, Generative AI 💁}.
 - 😄 Pronouns: he/him
 
 
@@ -27,9 +27,9 @@ I ocassionally blog about Tech stack I know ( which i feel is cool ) at [Hashnod
 
 ## Get in touch :coffee:
 
-### I'm on:
+### Feel Free to reach me out ⏬ :
 - [Twitter](https://twitter.com/NVRaghuCharan16?t=crDokRNrUaznVfBeh9eZtQ&s=09).
 - [LinkedIn](https://www.linkedin.com/in/narra-venkata-raghu-charan).
-- And of course GitHub, What you are at present.
+- [Instagram](https://www.instagram.com/nvraghucharan/)
 
 
