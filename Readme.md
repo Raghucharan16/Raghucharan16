@@ -24,12 +24,9 @@ I ocassionally blog about Tech stack at [Hashnode](https://nvrc.hashnode.dev/).
 - Open source :octocat:
 - DevOps :robot:
 
-
-## Get in touch :coffee:
-
-### Feel Free to reach me out ⏬ :
-- [Twitter](https://twitter.com/NVRaghuCharan16?t=crDokRNrUaznVfBeh9eZtQ&s=09).
-- [LinkedIn](https://www.linkedin.com/in/narra-venkata-raghu-charan).
+## Feel Free to reach me out ⏬ :
+- [Twitter](https://twitter.com/NVRaghuCharan16?t=crDokRNrUaznVfBeh9eZtQ&s=09)
+- [LinkedIn](https://www.linkedin.com/in/narra-venkata-raghu-charan)
 - [Instagram](https://www.instagram.com/nvraghucharan/)
 
 
