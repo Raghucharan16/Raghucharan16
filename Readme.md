@@ -13,8 +13,8 @@ I'm Venkata Raghu Charan Narra. A CSE UnderGraduate, Volunteer at [GDG Vizag](ht
 #### I believe Learning in public is the most effective standard of knowing or learning any new concept.
 
 I ocassionally blog about Tech stack at [Hashnode](https://nvrc.hashnode.dev/).  
-- 🌱 I’m currently learning Android.
-- 👯 I’m looking to collaborate for Machine Learning projects/ Topics {deeplearning, GAN, VAN, Generative AI 💁}.
+- 🌱 I’m currently working as ML Intern.
+- 👯 I’m looking to collaborate for Machine Learning projects and data science related tasks.
 - 😄 Pronouns: he/him
 
 
