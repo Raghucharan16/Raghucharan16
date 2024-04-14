@@ -14,7 +14,7 @@ I'm Venkata Raghu Charan Narra. A CSE UnderGraduate, Volunteer at [GDG Vizag](ht
 
 I ocassionally blog about Tech stack at [Hashnode](https://nvrc.hashnode.dev/).  
 - 🌱 I’m currently working as ML Intern.
-- 👯 I’m looking to collaborate for Machine Learning projects and data science related tasks.
+- 👯 I’m looking to collaborate for Machine Learning and Data Science related projects.
 - 😄 Pronouns: he/him
 
 
