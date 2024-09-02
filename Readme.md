@@ -9,11 +9,11 @@
 
 ## About me
 
-I'm Venkata Raghu Charan Narra. A CSE-data science Graduate, Volunteer at [GDG Vizag](https://gdg.community.dev/gdg-vizag/) (Vizag) and GCCP facilitator at [GVP](https://www.gvpce.ac.in/).
+I'm Venkata Raghu Charan Narra. A CSE-data science Graduate, Volunteer at [GDG Vizag](https://gdg.community.dev/gdg-vizag/) (Vizag) and former GCCP facilitator at [GVP](https://www.gvpce.ac.in/).
 #### I believe Learning in public is the most effective standard of knowing or learning any new concept.
 
 I ocassionally blog about Tech stack at [Hashnode](https://nvrc.hashnode.dev/).  
-- 🌱 I’m currently working as ML Intern.
+- 🌱 I’m currently working as Data Engineer.
 - 👯 I’m looking to collaborate for Machine Learning, Deep Learning, Generative AI and Data Science related projects.
 - 😄 Pronouns: he/him
 
