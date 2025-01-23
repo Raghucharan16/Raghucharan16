@@ -22,7 +22,7 @@ I ocassionally blog about Tech stack at [Hashnode](https://nvrc.hashnode.dev/).
 
 - Machine Learning :star2:
 - Open source :octocat:
-- DevOps :robot:
+- Databases :robot:
 
 ## Feel Free to reach me out ⏬ :
 - [Twitter](https://twitter.com/NVRaghuCharan16?t=crDokRNrUaznVfBeh9eZtQ&s=09)
