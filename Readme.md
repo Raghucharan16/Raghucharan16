@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Venkata Raghu Charan Narra. Data Engineer at [Freshbus](https://www.freshbus.com/), CSE-data science Graduate, Volunteer at [GDG Vizag](https://gdg.community.dev/gdg-vizag/) (Vizag) and former GCCP facilitator at [GVP](https://www.gvpce.ac.in/).
+I'm Venkata Raghu Charan Narra. Data Engineer at [Freshbus](https://www.freshbus.com/), CSE-data science Graduate, Contributor and Volunteer at [GDG Vizag](https://gdg.community.dev/gdg-vizag/) (Vizag) and former GCCP facilitator at [GVP](https://www.gvpce.ac.in/).
 #### I believe Learning in public is the most effective standard of knowing or learning any new concept.
 
 I ocassionally blog about Tech stack at [Hashnode](https://nvrc.hashnode.dev/).  
