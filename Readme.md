@@ -9,8 +9,8 @@
 
 ## About me
 
-I'm Venkata Raghu Charan Narra. Data Engineer at [Freshbus](https://www.freshbus.com/), CSE-data science Graduate, Contributor and Volunteer at [GDG Vizag](https://gdg.community.dev/gdg-vizag/) (Vizag) and former GCCP facilitator at [GVP](https://www.gvpce.ac.in/).
-#### I believe Learning in public is the most effective standard of knowing or learning any new subject.
+I'm N.V.RaghuCharan. Data & AI Engineer at [Freshbus](https://www.freshbus.com/), CSE-data science Graduate, Contributor and Volunteer at [GDG Vizag](https://gdg.community.dev/gdg-vizag/) (Vizag).
+#### I believe Building by Learning and Sharing is the most effective standard of knowing or learning any subject.
 
 I ocassionally blog about Tech stack at [Hashnode](https://nvrc.hashnode.dev/).  
 - 🌱 I’m currently working as Data & AI Engineer at [Freshbus](https://www.freshbus.com).
@@ -23,11 +23,6 @@ I ocassionally blog about Tech stack at [Hashnode](https://nvrc.hashnode.dev/).
 - Generative AI :brain:
 - Databases :robot:
 - Open source :octocat:
-
-## Open Source Contributions
-<!-- List your open source contributions here -->
-- [Contribution 1](https://github.com/serengil/deepface/pull/1439) - Added Buffalo_l model to deepface
-- [Contribution 2](https://github.com/deepinsight/insightface/pull/2728) - Added Buffalo_l Model's Face recognition Script for easier interpratation
 
 ## Feel Free to reach me out ⏬ :
 - [Twitter](https://twitter.com/NVRaghuCharan16?t=crDokRNrUaznVfBeh9eZtQ&s=09)
