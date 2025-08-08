@@ -1,46 +1,46 @@
-# Hey there! 👋
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World Banner">
-
+<!-- Banner -->
 <p align="center">
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/Raghucharan16/count.svg" />
+  <img src="banner.png" alt="AI Project Banner" width="500" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm **N. V. RaghuCharan**, a **Data & AI Engineer** at [Freshbus](https://www.freshbus.com/) and a **CSE - Data Science Graduate**. I actively contribute and volunteer with [GDG Vizag](https://gdg.community.dev/gdg-vizag/).
-
-> 🧠 _I believe that building by learning and sharing is the most effective way to truly understand any subject._
-
-I occasionally share my thoughts and projects through blogs on [Hashnode](https://nvrc.hashnode.dev/).
+<h1 align="center">Hi, I'm Narra Venkata Raghu Charan 👋</h1>
+<p align="center">🚀 AI/ML Enthusiast | 🧠 Researcher | 💻 Full Stack Developer</p>
 
 ---
 
-### 🚀 Currently:
-- 🌱 Working as a **Data & AI Engineer** at [Freshbus](https://www.freshbus.com/)
-- 🤝 Open to collaborating on **Machine Learning**, **Deep Learning**, **Generative AI**, and **Data Science** projects
-- 😄 Pronouns: **he/him**
+## 📌 Featured Projects
+
+### 🔧 [Scheduling ⚡ EV Bus Optimization](https://github.com/Raghucharan16/Scheduling)
+> Uses OR-Tools to optimize electric vehicle bus schedules based on route EPK values and constraints like charging, idle time, and forbidden slots. Outputs visual weekly schedules in HTML & JSON.
+
+### 🧠 [RAG Agent ChatBot 🤖](https://github.com/Raghucharan16/RAG-Agent-ChatBot)
+> A Retrieval-Augmented Generation chatbot using LangChain + FAISS + OpenAI for intelligent question answering from any custom document corpus.
+
+### 🧪 [Synthetic Image Generation 🖼️](https://github.com/Raghucharan16/SyntheticImageGeneration)
+> Lightweight PyTorch pipeline to generate synthetic data using classical augmentation and GANs. Enables data-efficient training for medical/vision tasks.
 
 ---
 
-## ❤️ Things I’m Passionate About
+## 📊 GitHub Stats
 
-- 🤖 **AI & Machine Learning**
-- 🧠 **Generative AI**
-- 🗄️ **Databases**
-- 🌍 **Open Source**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghucharan16&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghucharan16&layout=compact&theme=radical" height="180"/>
+</div>
 
----
-
-## 📫 Connect with Me
-
-- 🐦 [Twitter](https://twitter.com/NVRaghuCharan16?t=crDokRNrUaznVfBeh9eZtQ&s=09)
-- 💼 [LinkedIn](https://www.linkedin.com/in/narra-venkata-raghu-charan)
-- 📷 [Instagram](https://www.instagram.com/nvraghucharan/)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghucharan16&theme=github_dark" />
+</p>
 
 ---
 
-Thanks for stopping by! 😄
+## 🧠 Tech Stack
+
+```bash
+💻 Languages:     Python, JavaScript, HTML, Shell, SQL  
+⚙️ Frameworks:    FastAPI, Streamlit, Flask, React  
+🧪 AI Tools:      PyTorch, TensorFlow, OpenCV, FAISS, LangChain, OpenAI  
+🛠️ DevOps:        Docker, GitHub Actions, AWS, GCP  
+🗃️ Databases:     PostgreSQL, MongoDB, Redis, SQLite  
