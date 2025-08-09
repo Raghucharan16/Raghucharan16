@@ -6,7 +6,7 @@
 ---
 
 <h1 align="center">Hi, I'm Narra Venkata Raghu Charan 👋</h1>
-<p align="center">🚀 AI/ML Enthusiast | 🧠 Researcher | 🐍 Python Developer</p>
+<p align="center">🚀 AI/ML Enthusiast | 👨‍💻 Open Source Contributor | 🐍 Python Developer</p>
 
 ---
 
