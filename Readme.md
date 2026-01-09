@@ -33,19 +33,6 @@
 ```  
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghucharan16&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghucharan16&layout=compact&theme=radical" height="180"/>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghucharan16&theme=react-dark&hide_border=true&area=true&height=150&line=30" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
