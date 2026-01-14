@@ -29,7 +29,7 @@
 ⚙️ Frameworks:    FastAPI, Streamlit, Flask, React  
 🧪 AI Tools:      PyTorch, TensorFlow, OpenCV, FAISS, LangChain, OpenAI  
 🛠️ DevOps:        Docker, GitHub Actions, AWS, GCP  
-🗃️ Databases:     PostgreSQL, MongoDB, Redis, SQLite
+🗃️ Databases:     PostgreSQL, MongoDB, Redis
 ```  
 ---
 
