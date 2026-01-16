@@ -52,7 +52,7 @@
 
 ---
 
-<p align="center">💡 Happy building & collaborating! 💡</p>
+<p align="center">💡 Happy networking & building! 💡</p>
 
 
 
