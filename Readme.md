@@ -25,9 +25,9 @@
 ## 🧠 Tech Stack
 
 ```bash
-💻 Languages:     Python, JavaScript, HTML, Shell, SQL  
-⚙️ Frameworks:    FastAPI, Streamlit, Flask, React  
-🧪 AI Tools:      PyTorch, TensorFlow, OpenCV, FAISS, LangChain, OpenAI  
+💻 Languages:     Python, Java, C, C++, Javascript
+⚙️ Frameworks:    FastAPI, Streamlit, Flask, Django
+🧪 AI Tools:      PyTorch, TensorFlow, OpenCV, LangChain
 🛠️ DevOps:        Docker, GitHub Actions, AWS, GCP  
 🗃️ Databases:     PostgreSQL, MongoDB, Redis
 ```  
@@ -41,9 +41,6 @@
   </a>
   <a href="https://linkedin.com/in/narra-venkata-raghu-charan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/nvraghucharan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://nvrc.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
